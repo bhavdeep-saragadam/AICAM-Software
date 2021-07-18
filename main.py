@@ -24,8 +24,7 @@ while True:
 
 	
 
-	if label == "person":
-		print('A Person In The AREA')
+	
 	
 	cv2.imshow("AI CAMERA", img)
 
